@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">app name</string>
+    <string name="title_activity_basic">activity_basic</string>
+    <string name="title_activity_weatger_window">activity_weatger_window</string>
+    <string name="Humidity">Humidity : </string>
+    <string name="Speed">Speed : </string>
+    <string name="BACK">back</string>
+    <string name="Pressuere">Pressure : </string>
+    <string name="temperature">Temperature</string>
+    <string name="Name">Name : </string>
+    <string name="Id">Id : </string>
+    <string name="Server_respone">Server respone</string>
+    <string name="StratW">Start</string>
+    <string name="json_id">Id : </string>
+    <string name="json_name">Name : </string>
+    <string name="json_temperature">Temperature : </string>
+    <string name="json_pressure">Pressure : </string>
+    <string name="json_humidity">Humidity : </string>
+    <string name="json_wind">wind</string>
+    <string name="json_speer_wind">Speed wind : </string>
+    <string name="json_main">main</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="json_C">*C </string>
+    <string name="json_hpa">hPa</string>
+    <string name="json_proc"> %</string>
+    <string name="json_km_h"> Km/h</string>
+</resources>
